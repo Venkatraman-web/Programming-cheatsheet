@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+ 
+
+}
+#navbarHeading{
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Hind Siliguri', sans-serif;
+    color:#222;
+    position: relative;
+    bottom:-5px;
+
+
+}
+
+#navbar{
+    background-color: orange;
+    position: relative;
+    top:-12px;
+    height:45px;
+    display: flex;
+    justify-content:center;
+    border:5px solid orange;
+}
+.codeProgramming{
+        
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.language-py{
+    width: 500px;   
+
+}
+code{
+    float:left;
+}
+#codeHeading{
+    font-family: 'Quicksand', sans-serif;
+    position: relative;
+    right: -360px;
+}
+.language-c{
+    width:500px;
+}
+.language-cpp{
+    width:500px;
+}
+.language-java{
+    width:500px;
+}
+.myFooter{
+    text-align: center;
+    background-color: #222;
+    height:40px;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    border:2px solid #222;
+
+}
+
+p{
+    color:#fff;
+    font-size: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+#logo{
+    height:40px;
+    position: absolute;
+    left: 10px;
+    bottom:-3px;
+    border-radius: 23px;
+    
+}
