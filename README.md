@@ -7,7 +7,7 @@ I have put the boilerplate of 4 programming languages which is c, c++, java, and
 
 Hope You like it
 
-It looks like this -> 
+It looks like this 
 
 
 ![](images/screenshot.jpg)
