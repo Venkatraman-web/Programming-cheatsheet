@@ -38,7 +38,7 @@ body{
     justify-content:center;
 }
 .language-py{
-    width: 500px;   
+    width: 700px;   
 
 }
 code{
@@ -47,16 +47,16 @@ code{
 #codeHeading{
     font-family: 'Quicksand', sans-serif;
     position: relative;
-    right: -360px;
+    right: -250px;
 }
 .language-c{
-    width:500px;
+    width:700px;
 }
 .language-cpp{
-    width:500px;
+    width:700px;
 }
 .language-java{
-    width:500px;
+    width:700px;
 }
 .myFooter{
     text-align: center;
@@ -82,4 +82,14 @@ p{
     bottom:-3px;
     border-radius: 23px;
     
+}
+.language-js{
+    width:700px;
+}
+.language-rb{
+    width:700px;
+}
+.language-html{
+    width:700px;
+    height:300px;
 }
