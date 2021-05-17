@@ -46,8 +46,9 @@ code{
 }
 #codeHeading{
     font-family: 'Quicksand', sans-serif;
-    position: relative;
-    right: -250px;
+     display:flex;
+    align-items:center;
+    justify-content:center;
 }
 .language-c{
     width:700px;
