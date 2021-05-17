@@ -5,10 +5,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
 
 body{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
- 
+    
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
 
 }
 #navbarHeading{
@@ -46,7 +46,7 @@ code{
 }
 #codeHeading{
     font-family: 'Quicksand', sans-serif;
-     display:flex;
+    display:flex;
     align-items:center;
     justify-content:center;
 }
@@ -67,8 +67,11 @@ code{
     align-items: center;
     justify-content:center;
     border:2px solid #222;
-
+    position: absolute;
+    bottom:-1500px;
+    width:100%;
 }
+
 
 p{
     color:#fff;
